@@ -174,7 +174,6 @@ while corriendo:
             nivel = "Medio"
             velocidad = 9
 
-        if puntos2 >= 20:
             nivel = "Dificil"
             velocidad = 12
 
